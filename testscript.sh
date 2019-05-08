@@ -2,5 +2,5 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "Test1"
+echo "Testing the auto trigger of jenkins"
 echo "this was run automagically"
